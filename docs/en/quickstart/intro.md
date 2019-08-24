@@ -12,7 +12,7 @@ JSBox is not alone, there are so many products can `run scripts`, JSBox is heavi
 
 But JSBox is not just a copycat of those projects, we based on `JavaScript` and provided a lot of simple APIs, let you interact with iOS much easier.
 
-By the way, there're so many frameworks provide ability to: `render native UI with JavaScript`, for example `React Native` from Facebook and `Weex` from Alibaba, JSBox didn't leverage them, there are several reasons:
+By the way, there're so many frameworks that provide ability to `render native UI with JavaScript`, for example, `React Native` from Facebook and `Weex` from Alibaba, JSBox didn't leverage them, there are several reasons:
 
 - React Native and Weex are design for cross-platform
 - JSBox is designed to create iOS utilities
